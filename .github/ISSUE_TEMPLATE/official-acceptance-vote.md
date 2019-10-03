@@ -2,7 +2,7 @@
 name: Official acceptance vote
 about: Unless you are an administrator, please use proposal instead
 title: ''
-labels: ''
+labels: vote
 assignees: ''
 
 ---
